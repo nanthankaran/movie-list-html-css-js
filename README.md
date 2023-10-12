@@ -1,7 +1,4 @@
 ![Screenshot of the project](https://github.com/nanthankaran/movie-list-html-css-js/blob/master/Screenshot%202023-10-11%20055430.png)
-
-![netcertificate](https://github.com/nanthankaran/movie-list-html-css-js/blob/master/net_page-0001.jpg)
-
 # movie-list-html-css-js
   This project uses the TMDb API to get movie data and display it in a list. The list is sorted by popularity by default, but users can also search for specific movies.
 
